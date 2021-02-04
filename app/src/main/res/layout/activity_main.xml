@@ -61,7 +61,7 @@
             android:id="@+id/btnToRegister"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="회원이 아니신가요??"
+            android:text="회원이 아니신가요?"
             android:textColor="#494646"
             android:textStyle="italic"
             app:backgroundTint="#00FFFFFF"
