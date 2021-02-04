@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var btnLogin: Button
     lateinit var btnToRegister: Button
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
